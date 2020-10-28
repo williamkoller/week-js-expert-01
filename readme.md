@@ -1,4 +1,4 @@
-# JavaScript Expert ministrada pelo Erick Wendel
+# JavaScript Expert
 
 - Libs:
   - ffmpeg
